@@ -1,11 +1,11 @@
-#Expense Tracker
+# Expense Tracker
 
 ![Screenshot 2024-07-02 at 8 04 40 AM](https://github.com/TariqKichawele/Expense-tracker/assets/105932024/bb203335-bf4c-4896-abc2-478ea87b980d)
 ![Screenshot 2024-07-02 at 8 05 16 AM](https://github.com/TariqKichawele/Expense-tracker/assets/105932024/11c37a97-d53c-4256-9c01-9281a2d1a9e4)
 
 - This is an expense tracker that helps you track your expenses efficiently and effectively. Built with a modern tech stack, it provides a seamless experience for users to manage their finances. This project leverages TypeScript, Next.js for the frontend and backend, Prisma as the ORM, Neon for the database, and Clerk for user authentication.
 
-#Tech Stack
+**Tech Stack**
 
 - TypeScript: A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - Next.js: A React framework that enables functionality such as server-side rendering and generating static websites for React-based web applications.
@@ -13,7 +13,7 @@
 - Neon: A scalable serverless Postgres with a focus on developer experience.
 - Clerk: An authentication solution that provides a suite of tools for managing user accounts.
 
-#Features
+**Features**
 
 - User Authentication: Secure login and registration using Clerk.
 - Expense Management: Add, edit, and delete expenses.
